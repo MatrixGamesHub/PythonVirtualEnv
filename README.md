@@ -1,8 +1,6 @@
 # PythonVirtualEnv
 Python virtual environments for the development of matrix games
 
-**Attention:** You **must** clone the repository to `C:\PythonVirtualEnv\MatrixGames`, because the path is hard coded in all binaries (e.g. pip.exe).
-
 ## Installation
 
  1. Create the following directory:
@@ -10,6 +8,9 @@ Python virtual environments for the development of matrix games
     `C:\PythonVirtualEnv\MatrixGames`
 
     If it already exists, make sure it is empty.
+
+    **Attention:** You **must** clone the repository to `C:\PythonVirtualEnv\MatrixGames`, because the path is hard coded in all binaries (e.g. pip.exe).
+
 
  2. Change in to the directory and clone into it:
     - Via HTTPS: `git clone https://github.com/MatrixGamesHub/PythonVirtualEnv.git . `
